@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-I'm a Software Developer, Macos & Linux Enthusiast!
+I'm currently work for [@efluid](https://www.efluid.com) as a software engineer.
+Macos & Linux Enthusiast!
 
 ### Tools and Languages:
 
