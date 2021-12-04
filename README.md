@@ -1,10 +1,14 @@
-## Hi there 👋
+## Hi, I'm Samuel.
 
-I'm currently work for [@efluid](https://www.efluid.com) as a software engineer.
+I'm currently work for [efluid](https://www.efluid.com) as a software engineer.
 I'm passionate about writing code, solving problems, automating stuff, and building software.
 Macos & Linux Enthusiast!
 
-## Tech stack:
+[![linkedin](https://img.shields.io/badge/LinkedIn-blue?style=plastic&logo=linkedin)](https://www.linkedin.com/in/marcaille/)
+[![Instagram](https://img.shields.io/badge/Instagram-c13584?style=plastic&labelColor=white&logo=instagram)](https://www.instagram.com/mihntolva/)
+[![twittter](https://img.shields.io/badge/Twitter-blue?style=plastic&logo=twitter&labelColor=white)](https://www.twitter.com/MhinTolva/)
+
+## Stack:
 
 ![ansible](https://img.shields.io/badge/-Ansible-333333?style=for-the-badge&logo=ansible)
 ![apache](https://img.shields.io/badge/-Apache-333333?style=for-the-badge&logo=apache)
