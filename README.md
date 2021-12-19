@@ -44,3 +44,4 @@ Macos & Linux Enthusiast!
 ![raspberrypi](https://img.shields.io/badge/-Raspberry%20Pi-333333?style=for-the-badge&logo=raspberrypi)
 ![apple](https://img.shields.io/badge/-Apple-333333?style=for-the-badge&logo=apple)
 ![lenovo](https://img.shields.io/badge/-Lenovo-333333?style=for-the-badge&logo=lenovo)
+![hp](https://img.shields.io/badge/-HP-333333?style=for-the-badge&logo=hp)
