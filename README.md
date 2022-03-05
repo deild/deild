@@ -1,6 +1,6 @@
 ## Hi, I'm Samuel.
 
-I'm currently work for [efluid](https://www.efluid.com) as a software engineer.
+I work in IT and software development for the last 22 years. I'm currently work for [efluid](https://www.efluid.com) as a software engineer.
 I'm passionate about writing code, solving problems, automating stuff, and building software.
 Macos & Linux Enthusiast!
 
