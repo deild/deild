@@ -1,14 +1,13 @@
-## Hi, I'm Samuel.
+## Samuel Marcaille
 
-I work in IT and software development for the last 22 years. I'm currently work for [efluid](https://www.efluid.com) as a software engineer.
-I'm passionate about writing code, solving problems, automating stuff, and building software.
-Macos & Linux Enthusiast!
+I work in the IT and software development industry for the last 22 years. I'm currently work for [efluid](https://www.efluid.com) as a software engineer.
 
-[![linkedin](https://img.shields.io/badge/LinkedIn-blue?style=plastic&logo=linkedin)](https://www.linkedin.com/in/marcaille/)
-[![Instagram](https://img.shields.io/badge/Instagram-c13584?style=plastic&labelColor=white&logo=instagram)](https://www.instagram.com/mihntolva/)
-[![twittter](https://img.shields.io/badge/Twitter-blue?style=plastic&logo=twitter&labelColor=white)](https://www.twitter.com/MhinTolva/)
+Regardless of the buzzwords and titles, my vision is to grow, use my engineering skills and contribute to the success of any business or team I work with.
 
-### Stack:
+[![](https://img.shields.io/badge/marcaille-2867B2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcaille/) &nbsp;
+[![](https://img.shields.io/badge/MhinTolva-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/MhinTolva) &nbsp;
+[![](https://img.shields.io/badge/mihntolva-8a3ab9?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mihntolva/)
+
 
 ![ansible](https://img.shields.io/badge/-Ansible-333333?style=flat-square&logo=ansible)
 ![apache](https://img.shields.io/badge/-Apache-333333?style=flat-square&logo=apache)
@@ -30,16 +29,12 @@ Macos & Linux Enthusiast!
 ![nginx](https://img.shields.io/badge/-NGINX-333333?style=flat-square&logo=nginx)
 ![postgresql](https://img.shields.io/badge/-PostgreSQL-333333?style=flat-square&logo=postgresql)
 
-#### Operating System:
-
 ![linux](https://img.shields.io/badge/-Linux-333333?style=flat-square&logo=linux)
 ![rockylinux](https://img.shields.io/badge/-Rocky%20Linux-333333?style=flat-square&logo=rockylinux)
 ![redhat](https://img.shields.io/badge/-Red%20Hat-333333?style=flat-square&logo=redhat)
 ![centos](https://img.shields.io/badge/-CentOS-333333?style=flat-square&logo=centos)
 ![debian](https://img.shields.io/badge/-Debian-333333?style=flat-square&logo=debian)
 ![macos](https://img.shields.io/badge/-macOS-333333?style=flat-square&logo=macos)
-
-#### Material:
 
 ![raspberrypi](https://img.shields.io/badge/-Raspberry%20Pi-333333?style=flat-square&logo=raspberrypi)
 ![apple](https://img.shields.io/badge/-Apple-333333?style=flat-square&logo=apple)
