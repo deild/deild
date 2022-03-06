@@ -1,13 +1,12 @@
-## Samuel Marcaille
-
-I work in the IT and software development industry for the last 22 years. I'm currently work for [efluid](https://www.efluid.com) as a software engineer.
-
-Regardless of the buzzwords and titles, my vision is to grow, use my engineering skills and contribute to the success of any business or team I work with.
-
 [![](https://img.shields.io/badge/marcaille-2867B2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcaille/) &nbsp;
 [![](https://img.shields.io/badge/MhinTolva-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/MhinTolva) &nbsp;
 [![](https://img.shields.io/badge/mihntolva-8a3ab9?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mihntolva/)
 
+# Samuel Marcaille
+
+I work in the IT and software development industry for the last 22 years. I'm currently work for [efluid](https://www.efluid.com) as a software engineer.
+
+Regardless of the buzzwords and titles, my vision is to grow, use my engineering skills and contribute to the success of any business or team I work with.
 
 ![ansible](https://img.shields.io/badge/-Ansible-333333?style=flat-square&logo=ansible)
 ![apache](https://img.shields.io/badge/-Apache-333333?style=flat-square&logo=apache)
